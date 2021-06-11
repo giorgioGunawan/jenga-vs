@@ -1,0 +1,7 @@
+set(criutils_SETUP_PY_SETUP_MODULE "distutils.core")
+set(criutils_SETUP_PY_VERSION "0.1.4")
+set(criutils_SETUP_PY_SCRIPTS "")
+set(criutils_SETUP_PY_PACKAGES "criutils")
+set(criutils_SETUP_PY_PACKAGE_DIRS "src/criutils")
+set(criutils_SETUP_PY_MODULES "")
+set(criutils_SETUP_PY_MODULE_DIRS "")

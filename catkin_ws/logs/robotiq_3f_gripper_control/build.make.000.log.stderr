@@ -1,0 +1,11 @@
+[01m[K/home/matt/JBOT_Working/catkin_ws/src/robotiq/robotiq_3f_gripper_control/src/robotiq_3f_gripper_can_node.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/matt/JBOT_Working/catkin_ws/src/robotiq/robotiq_3f_gripper_control/src/robotiq_3f_gripper_can_node.cpp:144:41:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvirtual bool can::DriverInterface::init(const string&, bool)[m[K’ is deprecated: provide settings explicitly [[01;35m[K-Wdeprecated-declarations[m[K]
+   while(!driver_->init(can_device, false[01;35m[K)[m[K)
+                                         [01;35m[K^[m[K
+In file included from [01m[K/opt/ros/melodic/include/socketcan_interface/asio_base.h:4:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/socketcan_interface/socketcan.h:4[m[K,
+                 from [01m[K/home/matt/JBOT_Working/catkin_ws/src/robotiq/robotiq_3f_gripper_control/include/robotiq_3f_gripper_control/robotiq_3f_gripper_can_client.h:29[m[K,
+                 from [01m[K/home/matt/JBOT_Working/catkin_ws/src/robotiq/robotiq_3f_gripper_control/src/robotiq_3f_gripper_can_node.cpp:26[m[K:
+[01m[K/opt/ros/melodic/include/socketcan_interface/interface.h:180:65:[m[K [01;36m[Knote: [m[Kdeclared here
+     [[deprecated("provide settings explicitly")]]  virtual bool [01;36m[Kinit[m[K(const std::string &device, bool loopback) = 0;
+                                                                 [01;36m[K^~~~[m[K

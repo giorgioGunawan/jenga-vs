@@ -1,0 +1,4 @@
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/python2.7/dist-packages/baldor/__init__.py
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/pkgconfig/baldor.pc
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/share/baldor/cmake/baldorConfig.cmake
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/share/baldor/cmake/baldorConfig-version.cmake

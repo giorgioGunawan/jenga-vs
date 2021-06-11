@@ -1,0 +1,3 @@
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/pkgconfig/robotiq_3f_gripper_articulated_gazebo.pc
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/share/robotiq_3f_gripper_articulated_gazebo/cmake/robotiq_3f_gripper_articulated_gazeboConfig.cmake
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/share/robotiq_3f_gripper_articulated_gazebo/cmake/robotiq_3f_gripper_articulated_gazeboConfig-version.cmake

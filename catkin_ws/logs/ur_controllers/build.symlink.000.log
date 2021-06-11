@@ -1,0 +1,4 @@
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/libur_controllers.so
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/pkgconfig/ur_controllers.pc
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/share/ur_controllers/cmake/ur_controllersConfig.cmake
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/share/ur_controllers/cmake/ur_controllersConfig-version.cmake

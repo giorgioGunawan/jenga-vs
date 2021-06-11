@@ -1,0 +1,4 @@
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/pkgconfig/controller_stopper.pc
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/controller_stopper/node
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/share/controller_stopper/cmake/controller_stopperConfig-version.cmake
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/share/controller_stopper/cmake/controller_stopperConfig.cmake

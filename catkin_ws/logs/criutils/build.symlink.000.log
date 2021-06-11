@@ -1,0 +1,4 @@
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/python2.7/dist-packages/criutils/__init__.py
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/pkgconfig/criutils.pc
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/share/criutils/cmake/criutilsConfig-version.cmake
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/share/criutils/cmake/criutilsConfig.cmake

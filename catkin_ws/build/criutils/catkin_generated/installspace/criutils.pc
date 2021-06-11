@@ -1,0 +1,8 @@
+prefix=/home/matt/JBOT_Working/catkin_ws/install
+
+Name: criutils
+Description: Description of criutils
+Version: 0.1.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

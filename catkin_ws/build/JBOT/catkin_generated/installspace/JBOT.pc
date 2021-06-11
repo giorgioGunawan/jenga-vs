@@ -1,0 +1,8 @@
+prefix=/home/matt/JBOT_Working/catkin_ws/install
+
+Name: JBOT
+Description: Description of JBOT
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

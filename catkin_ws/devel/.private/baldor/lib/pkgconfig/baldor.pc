@@ -1,0 +1,8 @@
+prefix=/home/matt/JBOT_Working/catkin_ws/devel/.private/baldor
+
+Name: baldor
+Description: Description of baldor
+Version: 0.1.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

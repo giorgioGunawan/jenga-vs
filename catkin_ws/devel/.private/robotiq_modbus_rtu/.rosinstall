@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/matt/JBOT_Working/catkin_ws/devel/.private/robotiq_modbus_rtu/setup.sh

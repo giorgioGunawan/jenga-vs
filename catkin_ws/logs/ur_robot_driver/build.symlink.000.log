@@ -1,0 +1,7 @@
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/libur_robot_driver_plugin.so
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/ur_robot_driver/robot_state_helper
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/ur_robot_driver/ur_robot_driver_node
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/ur_robot_driver/dashboard_client
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/lib/pkgconfig/ur_robot_driver.pc
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/share/ur_robot_driver/cmake/ur_robot_driverConfig-version.cmake
+Symlinking /home/matt/JBOT_Working/catkin_ws/devel/share/ur_robot_driver/cmake/ur_robot_driverConfig.cmake
